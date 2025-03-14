@@ -1,5 +1,4 @@
-# OraculoPopper
-
+# EA_Riesgo_Lineas_AutoTP_Commission
 ## Descripción del Proyecto
 
 Este proyecto contiene un Asesor Experto (EA) desarrollado en MQL5 para MetaTrader 5, diseñado para traders que desean combinar el trading manual con cálculos automáticos de gestión de riesgo. El EA permite:
